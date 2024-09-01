@@ -1,0 +1,35 @@
+﻿
+.navbar {
+    background-color: hsl(28, 22%, 46%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0 auto;
+}
+/*
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+    .navbar-nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+    }
+
+        .navbar-nav a:hover {
+            background-color: #a9d4a6; 
+            border-radius: 5px;
+        }
+*/

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewMenuApp.Server", "NewMenuApp.Server\NewMenuApp.Server.csproj", "{6AE79CD5-E6C1-49D2-83F3-234D27663374}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "newmenuapp.client", "newmenuapp.client\newmenuapp.client.esproj", "{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE79CD5-E6C1-49D2-83F3-234D27663374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE79CD5-E6C1-49D2-83F3-234D27663374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE79CD5-E6C1-49D2-83F3-234D27663374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE79CD5-E6C1-49D2-83F3-234D27663374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C2E4A-FBA1-420A-B23F-50EA48E7F00D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EED823F-3EAC-4F0D-A760-BACD1407CA8C}
+	EndGlobalSection
+EndGlobal
